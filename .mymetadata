@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TestActiveMQ"
+  id="myeclipse.1486621758094"
+  context-root="/TestActiveMQ"
+  j2ee-spec="6.0"
+  archive="TestActiveMQ.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
